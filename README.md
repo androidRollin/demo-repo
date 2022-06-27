@@ -1,2 +1,1 @@
-# Demo
-Github and Git operations practice
+# Review and Practice Github and Git Operations
