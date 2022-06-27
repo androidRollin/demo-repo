@@ -1,2 +1,2 @@
 # Demo
-Github, Git operations practice
+Github and Git operations practice
